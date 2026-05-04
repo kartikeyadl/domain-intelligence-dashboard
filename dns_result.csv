@@ -1,0 +1,277 @@
+domain,record_type,value,fetched_at
+google.com,A,142.251.20.100,2026-05-02 21:02:49
+google.com,A,142.251.20.138,2026-05-02 21:02:49
+google.com,A,142.251.20.139,2026-05-02 21:02:49
+google.com,A,142.251.20.101,2026-05-02 21:02:49
+google.com,A,142.251.20.102,2026-05-02 21:02:49
+google.com,A,142.251.20.113,2026-05-02 21:02:49
+google.com,NS,ns1.google.com.,2026-05-02 21:02:49
+google.com,NS,ns2.google.com.,2026-05-02 21:02:49
+google.com,NS,ns4.google.com.,2026-05-02 21:02:49
+google.com,NS,ns3.google.com.,2026-05-02 21:02:49
+google.com,MX,10 smtp.google.com.,2026-05-02 21:02:49
+youtube.com,A,142.251.14.91,2026-05-02 21:02:49
+youtube.com,A,142.251.14.136,2026-05-02 21:02:49
+youtube.com,A,142.251.14.190,2026-05-02 21:02:49
+youtube.com,A,142.251.14.93,2026-05-02 21:02:49
+youtube.com,NS,ns3.google.com.,2026-05-02 21:02:49
+youtube.com,NS,ns1.google.com.,2026-05-02 21:02:49
+youtube.com,NS,ns2.google.com.,2026-05-02 21:02:49
+youtube.com,NS,ns4.google.com.,2026-05-02 21:02:49
+youtube.com,MX,0 smtp.google.com.,2026-05-02 21:02:49
+facebook.com,A,57.144.244.1,2026-05-02 21:02:49
+facebook.com,NS,d.ns.facebook.com.,2026-05-02 21:02:49
+facebook.com,NS,a.ns.facebook.com.,2026-05-02 21:02:49
+facebook.com,NS,b.ns.facebook.com.,2026-05-02 21:02:49
+facebook.com,NS,c.ns.facebook.com.,2026-05-02 21:02:49
+facebook.com,MX,10 smtpin.vvv.facebook.com.,2026-05-02 21:02:49
+instagram.com,A,57.144.244.34,2026-05-02 21:02:49
+instagram.com,NS,a.ns.instagram.com.,2026-05-02 21:02:49
+instagram.com,NS,b.ns.instagram.com.,2026-05-02 21:02:49
+instagram.com,NS,c.ns.instagram.com.,2026-05-02 21:02:49
+instagram.com,NS,d.ns.instagram.com.,2026-05-02 21:02:49
+instagram.com,MX,10 mxb-00082601.gslb.pphosted.com.,2026-05-02 21:02:49
+instagram.com,MX,10 mxa-00082601.gslb.pphosted.com.,2026-05-02 21:02:49
+whatsapp.com,A,57.144.245.32,2026-05-02 21:02:49
+whatsapp.com,NS,a.ns.whatsapp.net.,2026-05-02 21:02:49
+whatsapp.com,NS,b.ns.whatsapp.net.,2026-05-02 21:02:49
+whatsapp.com,NS,c.ns.whatsapp.net.,2026-05-02 21:02:49
+whatsapp.com,NS,d.ns.whatsapp.net.,2026-05-02 21:02:49
+whatsapp.com,MX,10 mxb-00082601.gslb.pphosted.com.,2026-05-02 21:02:49
+whatsapp.com,MX,10 mxa-00082601.gslb.pphosted.com.,2026-05-02 21:02:49
+x.com,A,172.66.0.227,2026-05-02 21:02:49
+x.com,NS,d.u10.twtrdns.net.,2026-05-02 21:02:49
+x.com,NS,a.r10.twtrdns.net.,2026-05-02 21:02:49
+x.com,NS,a.u10.twtrdns.net.,2026-05-02 21:02:49
+x.com,NS,b.r10.twtrdns.net.,2026-05-02 21:02:49
+x.com,NS,b.u10.twtrdns.net.,2026-05-02 21:02:49
+x.com,NS,c.r10.twtrdns.net.,2026-05-02 21:02:49
+x.com,NS,c.u10.twtrdns.net.,2026-05-02 21:02:49
+x.com,NS,d.r10.twtrdns.net.,2026-05-02 21:02:49
+x.com,MX,1 aspmx.l.google.com.,2026-05-02 21:02:49
+x.com,MX,10 alt3.aspmx.l.google.com.,2026-05-02 21:02:49
+x.com,MX,10 alt4.aspmx.l.google.com.,2026-05-02 21:02:49
+x.com,MX,5 alt1.aspmx.l.google.com.,2026-05-02 21:02:49
+x.com,MX,5 alt2.aspmx.l.google.com.,2026-05-02 21:02:49
+wikipedia.org,A,185.15.59.224,2026-05-02 21:02:49
+wikipedia.org,NS,ns0.wikimedia.org.,2026-05-02 21:02:49
+wikipedia.org,NS,ns1.wikimedia.org.,2026-05-02 21:02:49
+wikipedia.org,NS,ns2.wikimedia.org.,2026-05-02 21:02:49
+wikipedia.org,MX,10 mx-in2001.wikimedia.org.,2026-05-02 21:02:49
+wikipedia.org,MX,10 mx-in1001.wikimedia.org.,2026-05-02 21:02:49
+chatgpt.com,A,104.18.32.47,2026-05-02 21:02:49
+chatgpt.com,A,172.64.155.209,2026-05-02 21:02:49
+chatgpt.com,NS,savanna.ns.cloudflare.com.,2026-05-02 21:02:49
+chatgpt.com,NS,hassan.ns.cloudflare.com.,2026-05-02 21:02:49
+reddit.com,A,151.101.1.140,2026-05-02 21:02:49
+reddit.com,A,151.101.65.140,2026-05-02 21:02:49
+reddit.com,A,151.101.193.140,2026-05-02 21:02:49
+reddit.com,A,151.101.129.140,2026-05-02 21:02:49
+reddit.com,NS,ns-378.awsdns-47.com.,2026-05-02 21:02:49
+reddit.com,NS,ns-557.awsdns-05.net.,2026-05-02 21:02:49
+reddit.com,NS,ns-1029.awsdns-00.org.,2026-05-02 21:02:49
+reddit.com,NS,ns-1887.awsdns-43.co.uk.,2026-05-02 21:02:49
+reddit.com,MX,10 aspmx3.googlemail.com.,2026-05-02 21:02:49
+reddit.com,MX,5 alt1.aspmx.l.google.com.,2026-05-02 21:02:49
+reddit.com,MX,5 alt2.aspmx.l.google.com.,2026-05-02 21:02:49
+reddit.com,MX,1 aspmx.l.google.com.,2026-05-02 21:02:49
+reddit.com,MX,10 aspmx2.googlemail.com.,2026-05-02 21:02:49
+amazon.com,A,98.87.170.71,2026-05-02 21:02:49
+amazon.com,A,98.87.170.74,2026-05-02 21:02:49
+amazon.com,A,98.82.161.185,2026-05-02 21:02:49
+amazon.com,NS,ns-521.awsdns-01.net.,2026-05-02 21:02:49
+amazon.com,NS,ns-1447.awsdns-52.org.,2026-05-02 21:02:49
+amazon.com,NS,ns-1707.awsdns-21.co.uk.,2026-05-02 21:02:49
+amazon.com,NS,ns-264.awsdns-33.com.,2026-05-02 21:02:49
+amazon.com,MX,5 amazon-smtp.amazon.com.,2026-05-02 21:02:49
+yahoo.com,A,74.6.143.25,2026-05-02 21:02:49
+yahoo.com,A,74.6.231.20,2026-05-02 21:02:49
+yahoo.com,A,74.6.231.21,2026-05-02 21:02:49
+yahoo.com,A,74.6.143.26,2026-05-02 21:02:49
+yahoo.com,A,98.137.11.163,2026-05-02 21:02:49
+yahoo.com,A,98.137.11.164,2026-05-02 21:02:49
+yahoo.com,NS,ns2.yahoo.com.,2026-05-02 21:02:49
+yahoo.com,NS,ns4.yahoo.com.,2026-05-02 21:02:49
+yahoo.com,NS,ns5.yahoo.com.,2026-05-02 21:02:49
+yahoo.com,NS,ns1.yahoo.com.,2026-05-02 21:02:49
+yahoo.com,NS,ns3.yahoo.com.,2026-05-02 21:02:49
+yahoo.com,MX,1 mta6.am0.yahoodns.net.,2026-05-02 21:02:49
+yahoo.com,MX,1 mta7.am0.yahoodns.net.,2026-05-02 21:02:49
+yahoo.com,MX,1 mta5.am0.yahoodns.net.,2026-05-02 21:02:49
+baidu.com,A,111.63.65.247,2026-05-02 21:02:49
+baidu.com,A,110.242.74.102,2026-05-02 21:02:49
+baidu.com,A,111.63.65.103,2026-05-02 21:02:49
+baidu.com,A,124.237.177.164,2026-05-02 21:02:49
+baidu.com,NS,ns2.baidu.com.,2026-05-02 21:02:49
+baidu.com,NS,dns.baidu.com.,2026-05-02 21:02:49
+baidu.com,NS,ns4.baidu.com.,2026-05-02 21:02:49
+baidu.com,NS,ns3.baidu.com.,2026-05-02 21:02:49
+baidu.com,NS,ns7.baidu.com.,2026-05-02 21:02:49
+baidu.com,MX,20 mx.baidu.com.,2026-05-02 21:02:49
+baidu.com,MX,10 mx.maillb.baidu.com.,2026-05-02 21:02:49
+yandex.ru,A,77.88.55.88,2026-05-02 21:02:49
+yandex.ru,A,5.255.255.77,2026-05-02 21:02:49
+yandex.ru,A,77.88.44.55,2026-05-02 21:02:49
+yandex.ru,NS,ns2.yandex.ru.,2026-05-02 21:02:49
+yandex.ru,NS,ns1.yandex.ru.,2026-05-02 21:02:49
+yandex.ru,MX,10 mx.yandex.ru.,2026-05-02 21:02:49
+tiktok.com,A,23.36.162.215,2026-05-02 21:02:49
+tiktok.com,A,23.36.162.207,2026-05-02 21:02:49
+tiktok.com,A,23.36.162.219,2026-05-02 21:02:49
+tiktok.com,A,23.36.162.221,2026-05-02 21:02:49
+tiktok.com,A,23.36.162.199,2026-05-02 21:02:49
+tiktok.com,A,23.36.162.214,2026-05-02 21:02:49
+tiktok.com,NS,a6-65.akam.net.,2026-05-02 21:02:49
+tiktok.com,NS,a1-97.akam.net.,2026-05-02 21:02:49
+tiktok.com,NS,a18-64.akam.net.,2026-05-02 21:02:49
+tiktok.com,NS,a13-67.akam.net.,2026-05-02 21:02:49
+tiktok.com,NS,a12-66.akam.net.,2026-05-02 21:02:49
+tiktok.com,NS,a9-66.akam.net.,2026-05-02 21:02:49
+tiktok.com,MX,10 mx1.tiktok.com.,2026-05-02 21:02:49
+tiktok.com,MX,20 mx2.tiktok.com.,2026-05-02 21:02:49
+tiktok.com,MX,30 mx3.tiktok.com.,2026-05-02 21:02:49
+bing.com,A,150.171.27.10,2026-05-02 21:02:49
+bing.com,A,150.171.28.10,2026-05-02 21:02:49
+bing.com,NS,dns2.p09.nsone.net.,2026-05-02 21:02:49
+bing.com,NS,dns3.p09.nsone.net.,2026-05-02 21:02:49
+bing.com,NS,dns4.p09.nsone.net.,2026-05-02 21:02:49
+bing.com,NS,ns1-204.azure-dns.com.,2026-05-02 21:02:49
+bing.com,NS,ns2-204.azure-dns.net.,2026-05-02 21:02:49
+bing.com,NS,ns3-204.azure-dns.org.,2026-05-02 21:02:49
+bing.com,NS,ns4-204.azure-dns.info.,2026-05-02 21:02:49
+bing.com,NS,dns1.p09.nsone.net.,2026-05-02 21:02:49
+bing.com,MX,10 bing-com.mail.protection.outlook.com.,2026-05-02 21:02:49
+linkedin.com,A,150.171.22.12,2026-05-02 21:02:49
+linkedin.com,NS,dns4.p09.nsone.net.,2026-05-02 21:02:49
+linkedin.com,NS,ns1-42.azure-dns.com.,2026-05-02 21:02:49
+linkedin.com,NS,ns2-42.azure-dns.net.,2026-05-02 21:02:49
+linkedin.com,NS,ns3-42.azure-dns.org.,2026-05-02 21:02:49
+linkedin.com,NS,ns4-42.azure-dns.info.,2026-05-02 21:02:49
+linkedin.com,NS,dns1.p09.nsone.net.,2026-05-02 21:02:49
+linkedin.com,NS,dns2.p09.nsone.net.,2026-05-02 21:02:49
+linkedin.com,NS,dns3.p09.nsone.net.,2026-05-02 21:02:49
+linkedin.com,MX,20 mail.linkedin.com.,2026-05-02 21:02:49
+linkedin.com,MX,10 mail-a.linkedin.com.,2026-05-02 21:02:49
+linkedin.com,MX,10 mail-c.linkedin.com.,2026-05-02 21:02:49
+linkedin.com,MX,10 mail-d.linkedin.com.,2026-05-02 21:02:49
+microsoft.com,A,150.171.109.101,2026-05-02 21:02:49
+microsoft.com,NS,ns2-39.azure-dns.net.,2026-05-02 21:02:49
+microsoft.com,NS,ns3-39.azure-dns.org.,2026-05-02 21:02:49
+microsoft.com,NS,ns4-39.azure-dns.info.,2026-05-02 21:02:49
+microsoft.com,NS,ns1-39.azure-dns.com.,2026-05-02 21:02:49
+microsoft.com,MX,10 microsoft-com.mail.protection.outlook.com.,2026-05-02 21:02:49
+netflix.com,A,54.155.178.5,2026-05-02 21:02:49
+netflix.com,A,54.74.73.31,2026-05-02 21:02:49
+netflix.com,A,3.251.50.149,2026-05-02 21:02:49
+netflix.com,NS,ns-81.awsdns-10.com.,2026-05-02 21:02:49
+netflix.com,NS,ns-1372.awsdns-43.org.,2026-05-02 21:02:49
+netflix.com,NS,ns-1984.awsdns-56.co.uk.,2026-05-02 21:02:49
+netflix.com,NS,ns-659.awsdns-18.net.,2026-05-02 21:02:49
+netflix.com,MX,1 aspmx.l.google.com.,2026-05-02 21:02:49
+netflix.com,MX,10 aspmx2.googlemail.com.,2026-05-02 21:02:49
+netflix.com,MX,10 aspmx3.googlemail.com.,2026-05-02 21:02:49
+netflix.com,MX,5 alt1.aspmx.l.google.com.,2026-05-02 21:02:49
+netflix.com,MX,5 alt2.aspmx.l.google.com.,2026-05-02 21:02:49
+live.com,A,204.79.197.212,2026-05-02 21:02:49
+live.com,NS,ns1-37.azure-dns.com.,2026-05-02 21:02:49
+live.com,NS,ns2-37.azure-dns.net.,2026-05-02 21:02:49
+live.com,NS,ns3-37.azure-dns.org.,2026-05-02 21:02:49
+live.com,NS,ns4-37.azure-dns.info.,2026-05-02 21:02:49
+live.com,MX,2 live-com.olc.protection.outlook.com.,2026-05-02 21:02:49
+office.com,A,13.107.6.156,2026-05-02 21:02:49
+office.com,NS,ns2-05.azure-dns.net.,2026-05-02 21:02:49
+office.com,NS,ns3-05.azure-dns.org.,2026-05-02 21:02:49
+office.com,NS,ns4-05.azure-dns.info.,2026-05-02 21:02:49
+office.com,NS,ns1-05.azure-dns.com.,2026-05-02 21:02:49
+duckduckgo.com,A,40.114.177.156,2026-05-02 21:02:49
+duckduckgo.com,NS,dns4.p05.nsone.net.,2026-05-02 21:02:49
+duckduckgo.com,NS,ns01.quack-dns.com.,2026-05-02 21:02:49
+duckduckgo.com,NS,ns02.quack-dns.com.,2026-05-02 21:02:49
+duckduckgo.com,NS,ns03.quack-dns.com.,2026-05-02 21:02:49
+duckduckgo.com,NS,ns04.quack-dns.com.,2026-05-02 21:02:49
+duckduckgo.com,NS,dns1.p05.nsone.net.,2026-05-02 21:02:49
+duckduckgo.com,NS,dns2.p05.nsone.net.,2026-05-02 21:02:49
+duckduckgo.com,NS,dns3.p05.nsone.net.,2026-05-02 21:02:49
+duckduckgo.com,MX,0 duckduckgo-com.mail.protection.outlook.com.,2026-05-02 21:02:49
+bilibili.com,A,119.3.70.188,2026-05-02 21:02:49
+bilibili.com,A,139.159.241.37,2026-05-02 21:02:49
+bilibili.com,A,8.134.50.24,2026-05-02 21:02:49
+bilibili.com,A,47.103.24.173,2026-05-02 21:02:49
+bilibili.com,NS,ns4.dnsv5.com.,2026-05-02 21:02:50
+bilibili.com,NS,ns3.dnsv5.com.,2026-05-02 21:02:50
+bilibili.com,MX,10 mgw.bilibili.co.,2026-05-02 21:02:50
+bilibili.com,MX,15 bilibili-com.mail.protection.partner.outlook.cn.,2026-05-02 21:02:50
+pinterest.com,A,151.101.128.84,2026-05-02 21:02:50
+pinterest.com,A,151.101.192.84,2026-05-02 21:02:50
+pinterest.com,A,151.101.0.84,2026-05-02 21:02:50
+pinterest.com,A,151.101.64.84,2026-05-02 21:02:50
+pinterest.com,NS,ns6.pinterest.com.,2026-05-02 21:02:50
+pinterest.com,NS,ns10.pinterest.com.,2026-05-02 21:02:50
+pinterest.com,NS,ns9.pinterest.com.,2026-05-02 21:02:50
+pinterest.com,NS,ns5.pinterest.com.,2026-05-02 21:02:50
+pinterest.com,MX,10 alt4.aspmx.l.google.com.,2026-05-02 21:02:50
+pinterest.com,MX,5 alt1.aspmx.l.google.com.,2026-05-02 21:02:50
+pinterest.com,MX,5 alt2.aspmx.l.google.com.,2026-05-02 21:02:50
+pinterest.com,MX,1 aspmx.l.google.com.,2026-05-02 21:02:50
+pinterest.com,MX,10 alt3.aspmx.l.google.com.,2026-05-02 21:02:50
+canva.com,A,54.192.35.68,2026-05-02 21:02:50
+canva.com,A,54.192.35.129,2026-05-02 21:02:50
+canva.com,A,54.192.35.61,2026-05-02 21:02:50
+canva.com,A,54.192.35.70,2026-05-02 21:02:50
+canva.com,NS,ns-253.awsdns-31.com.,2026-05-02 21:02:50
+canva.com,NS,ns-730.awsdns-27.net.,2026-05-02 21:02:50
+canva.com,NS,ns-1421.awsdns-49.org.,2026-05-02 21:02:50
+canva.com,NS,ns-1851.awsdns-39.co.uk.,2026-05-02 21:02:50
+canva.com,MX,5 alt2.aspmx.l.google.com.,2026-05-02 21:02:50
+canva.com,MX,1 aspmx.l.google.com.,2026-05-02 21:02:50
+canva.com,MX,10 alt3.aspmx.l.google.com.,2026-05-02 21:02:50
+canva.com,MX,10 alt4.aspmx.l.google.com.,2026-05-02 21:02:50
+canva.com,MX,5 alt1.aspmx.l.google.com.,2026-05-02 21:02:50
+max.com,A,13.226.244.5,2026-05-02 21:02:50
+max.com,A,13.226.244.125,2026-05-02 21:02:50
+max.com,A,13.226.244.41,2026-05-02 21:02:50
+max.com,A,13.226.244.87,2026-05-02 21:02:50
+max.com,NS,ns-6.awsdns-00.com.,2026-05-02 21:02:50
+max.com,NS,ns-826.awsdns-39.net.,2026-05-02 21:02:50
+max.com,NS,ns-1122.awsdns-12.org.,2026-05-02 21:02:50
+max.com,NS,ns-1909.awsdns-46.co.uk.,2026-05-02 21:02:50
+max.com,MX,10 max-com.mail.protection.outlook.com.,2026-05-02 21:02:50
+campus.studium.kit.edu,A,141.3.130.65,2026-05-02 21:02:50
+wattpad.com,A,18.172.112.17,2026-05-02 21:02:50
+wattpad.com,A,18.172.112.108,2026-05-02 21:02:50
+wattpad.com,A,18.172.112.78,2026-05-02 21:02:50
+wattpad.com,A,18.172.112.11,2026-05-02 21:02:50
+wattpad.com,NS,ns-200.awsdns-25.com.,2026-05-02 21:02:50
+wattpad.com,NS,ns-913.awsdns-50.net.,2026-05-02 21:02:50
+wattpad.com,NS,ns-1424.awsdns-50.org.,2026-05-02 21:02:50
+wattpad.com,NS,ns-1984.awsdns-56.co.uk.,2026-05-02 21:02:50
+wattpad.com,MX,10 alt3.aspmx.l.google.com.,2026-05-02 21:02:50
+wattpad.com,MX,10 alt4.aspmx.l.google.com.,2026-05-02 21:02:50
+wattpad.com,MX,5 alt1.aspmx.l.google.com.,2026-05-02 21:02:50
+wattpad.com,MX,5 alt2.aspmx.l.google.com.,2026-05-02 21:02:50
+wattpad.com,MX,1 aspmx.l.google.com.,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.15,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.9,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.1,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.3,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.2,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.8,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.4,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.6,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.11,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.7,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.13,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.14,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.10,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.12,2026-05-02 21:02:50
+xvideos.com,A,89.222.127.5,2026-05-02 21:02:50
+xvideos.com,NS,ns3.wgcz.net.,2026-05-02 21:02:50
+xvideos.com,NS,ns1.wgcz.net.,2026-05-02 21:02:50
+xvideos.com,NS,ns2.wgcz.net.,2026-05-02 21:02:50
+xvideos.com,MX,5 alt2.aspmx.l.google.com.,2026-05-02 21:02:50
+xvideos.com,MX,10 aspmx4.googlemail.com.,2026-05-02 21:02:50
+xvideos.com,MX,10 aspmx5.googlemail.com.,2026-05-02 21:02:50
+xvideos.com,MX,10 aspmx3.googlemail.com.,2026-05-02 21:02:50
+xvideos.com,MX,5 alt1.aspmx.l.google.com.,2026-05-02 21:02:50
+xvideos.com,MX,1 aspmx.l.google.com.,2026-05-02 21:02:50
+xvideos.com,MX,10 aspmx2.googlemail.com.,2026-05-02 21:02:50

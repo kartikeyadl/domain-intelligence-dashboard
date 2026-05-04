@@ -1,0 +1,5 @@
+.env
+domains.db
+error.log
+__pycache__
+*.pyc
